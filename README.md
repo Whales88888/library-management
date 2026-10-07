@@ -1,6 +1,6 @@
 # Ứng dụng quản lý thư viện
 
-Ứng dụng REST API xây dựng bằng NestJS, TypeORM và MySQL. Ứng dụng quản lý sách, độc giả và các lượt mượn sách; mỗi lượt mượn mặc định có hạn trả sau 14 ngày.
+Ứng dụng REST API xây dựng bằng NestJS, TypeORM và MySQL. Ứng dụng quản lý sách, độc giả và các lượt mượn sách; mỗi lượt mượn mặc định có hạn trả sau 14 ngày. Ứng dụng hiện được cấu hình và kiểm tra với MySQL local tại `127.0.0.1:3306`, database `library_management`.
 
 ## Yêu cầu
 
@@ -90,7 +90,3 @@ src/
 npm test
 npm run build
 ```
-
-## Chụp ảnh minh chứng
-
-Khởi động ứng dụng khi MySQL đang chạy, mở `http://localhost:3000` để chụp màn hình ứng dụng, sau đó dùng Postman hoặc curl để gọi `POST /books`, `POST /readers`, `POST /borrowed-records` và `GET /borrowed-records`. Chụp lại request và response thành công để đính kèm bài nộp.
