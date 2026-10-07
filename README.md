@@ -1,4 +1,4 @@
-# Ứng dụng quản lý thư viện
+# BÀI TOÁN QUẢN LÝ THƯ VIỆN
 
 Ứng dụng REST API xây dựng bằng NestJS, TypeORM và MySQL. Ứng dụng quản lý sách, độc giả và các lượt mượn sách; mỗi lượt mượn mặc định có hạn trả sau 14 ngày. Ứng dụng hiện được cấu hình và kiểm tra với MySQL local tại `127.0.0.1:3306`, database `library_management`.
 
@@ -90,3 +90,19 @@ src/
 npm test
 npm run build
 ```
+
+## Chụp ảnh minh chứng
+
+# Ảnh 3.1 và 3.2
+<img width="1440" height="900" alt="Ảnh màn hình 2026-10-07 lúc 17 42 42" src="https://github.com/user-attachments/assets/41f3b107-5c91-437b-af8b-47d55406f2bd" />
+# Ảnh 3.3
+<img width="1440" height="900" alt="Ảnh màn hình 2026-10-07 lúc 17 18 19" src="https://github.com/user-attachments/assets/e02d3a0c-d871-4557-9d0a-7e129c4805ee" />
+
+<img width="1440" height="900" alt="Ảnh màn hình 2026-10-07 lúc 17 19 06" src="https://github.com/user-attachments/assets/bac4046e-1f4d-4580-8efd-720c4efe5c57" />
+
+<img width="1440" height="900" alt="Ảnh màn hình 2026-10-07 lúc 17 20 33" src="https://github.com/user-attachments/assets/994c3ae4-ca94-48d6-ab93-c23d36485d05" />
+
+# Ảnh 3.4
+<img width="1440" height="900" alt="Ảnh màn hình 2026-10-07 lúc 17 50 37" src="https://github.com/user-attachments/assets/73ac6046-aea5-4c26-b519-3ce95a6b26a5" />
+
+
